@@ -12,6 +12,6 @@
 ![image](https://user-images.githubusercontent.com/94203956/191795311-f2fa292b-f598-4ce8-afbe-ddfeda4eaa40.png)
 ![image](https://user-images.githubusercontent.com/94203956/191795392-27572f69-72ac-4aca-a247-6d674c51e1cc.png)🖥️
 
-## ⚠️ Note: "Skilled", "Members", "Course hours", were not translated as they are layout images. And "Design", it wasn't translated because it would be weird
+## ⚠️ Note: "Skilled", "Members", "Course hours", were not translated as they are layout images. And "Design","e-learning" it wasn't translated because it would be weird
 ## for more challenges go to https://www.frontendmentor.io/home
 ## And soon there will be more challenges completed in Brazilian Portuguese.💪
